@@ -1,0 +1,30 @@
+#paragrap {
+    font-weight: bold;
+}
+
+#shipping {
+    color: aquamarine;
+}
+
+.one {
+    font-style: italic;
+}
+
+#vip {
+    background-color: aquamarine;
+    margin: 80px;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+#main {
+    display: flex;
+}
+
+.customer {
+    background-color: aqua;
+    margin-left: 20px;
+    padding: 30px;
+    text-align: center;
+    border-radius: 20px;
+}
